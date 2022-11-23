@@ -2,6 +2,8 @@
 // Add your tests here.
 // See https://doc.rust-lang.org/stable/rust-by-example/testing/unit_testing.html
 
+mod invert_values;
+
 #[cfg(test)]
 
 fn minimum(arr: &[i32]) -> i32 {
