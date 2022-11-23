@@ -3,6 +3,7 @@
 // See https://doc.rust-lang.org/stable/rust-by-example/testing/unit_testing.html
 
 mod invert_values;
+mod find_multiples_of_number;
 
 #[cfg(test)]
 
