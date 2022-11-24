@@ -4,6 +4,7 @@
 
 mod invert_values;
 mod find_multiples_of_number;
+mod subtract_the_sum;
 
 #[cfg(test)]
 
