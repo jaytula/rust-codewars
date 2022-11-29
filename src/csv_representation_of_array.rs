@@ -1,3 +1,5 @@
+// Solutions: https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036/solutions/rust
+
 fn to_csv_text(arr: &[Vec<i8>]) -> String {
     let mut all = vec![];
     for i in arr.iter() {
