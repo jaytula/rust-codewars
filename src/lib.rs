@@ -8,6 +8,7 @@ mod subtract_the_sum;
 mod csv_representation_of_array;
 mod alternative_case;
 mod how_many_lightsabers;
+mod convert_string_to_number;
 
 #[cfg(test)]
 
