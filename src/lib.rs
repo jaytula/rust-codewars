@@ -7,6 +7,7 @@ mod find_multiples_of_number;
 mod subtract_the_sum;
 mod csv_representation_of_array;
 mod alternative_case;
+mod how_many_lightsabers;
 
 #[cfg(test)]
 
