@@ -34,6 +34,7 @@ mod abbreviate_two_word_name;
 mod count_the_monkeys;
 mod gravity_flip;
 mod beginner_series_2_clock;
+mod coefficients_quadratic_equation;
 
 #[cfg(test)]
 
