@@ -17,6 +17,7 @@ mod difference_of_volumes_of_cuboids;
 mod third_angle_of_a_triangle;
 mod calculate_bmi;
 mod beginner_reduce_but_grow;
+mod switch_it_up;
 
 #[cfg(test)]
 
