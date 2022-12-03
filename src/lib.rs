@@ -10,6 +10,7 @@ mod alternative_case;
 mod how_many_lightsabers;
 mod convert_string_to_number;
 mod squaring_an_argument;
+mod will_you_make_it;
 
 #[cfg(test)]
 
