@@ -12,6 +12,7 @@ mod convert_string_to_number;
 mod squaring_an_argument;
 mod will_you_make_it;
 mod parse_nice_int_from_char;
+mod htmlspecialchars;
 
 #[cfg(test)]
 
