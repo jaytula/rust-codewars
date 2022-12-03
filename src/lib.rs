@@ -39,6 +39,7 @@ mod basic_mathematical_operations;
 mod even_or_odd;
 mod you_cant_code_under_pressure_1;
 mod count_positives_sum_negatives;
+mod count_odd_numbers_below_n;
 
 #[cfg(test)]
 
