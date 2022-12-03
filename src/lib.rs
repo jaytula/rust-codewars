@@ -25,6 +25,7 @@ mod function_1_hello_word;
 mod opposites_attract;
 mod simple_multiplication;
 mod reversed_strings;
+mod grasshopper_messi_goals;
 
 #[cfg(test)]
 
