@@ -42,6 +42,7 @@ mod count_positives_sum_negatives;
 mod count_odd_numbers_below_n;
 mod the_if_function;
 mod object_oriented_piracy;
+mod makeuppercase;
 
 #[cfg(test)]
 
