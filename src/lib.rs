@@ -18,6 +18,7 @@ mod third_angle_of_a_triangle;
 mod calculate_bmi;
 mod beginner_reduce_but_grow;
 mod switch_it_up;
+mod string_repeat;
 
 #[cfg(test)]
 
