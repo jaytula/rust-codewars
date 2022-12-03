@@ -21,6 +21,7 @@ mod switch_it_up;
 mod string_repeat;
 mod grasshopper_basic_function_fixer;
 mod keep_hydrated;
+mod function_1_hello_word;
 
 #[cfg(test)]
 
