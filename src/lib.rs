@@ -31,6 +31,7 @@ mod get_mean_of_array;
 mod welcome;
 mod are_you_playing_banjo;
 mod abbreviate_two_word_name;
+mod count_the_monkeys;
 
 #[cfg(test)]
 
