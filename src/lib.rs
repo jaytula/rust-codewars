@@ -29,6 +29,7 @@ mod grasshopper_messi_goals;
 mod remove_first_and_last_char;
 mod get_mean_of_array;
 mod welcome;
+mod are_you_playing_banjo;
 
 #[cfg(test)]
 
