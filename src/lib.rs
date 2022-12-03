@@ -27,6 +27,7 @@ mod simple_multiplication;
 mod reversed_strings;
 mod grasshopper_messi_goals;
 mod remove_first_and_last_char;
+mod get_mean_of_array;
 
 #[cfg(test)]
 
