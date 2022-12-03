@@ -15,6 +15,7 @@ mod parse_nice_int_from_char;
 mod htmlspecialchars;
 mod difference_of_volumes_of_cuboids;
 mod third_angle_of_a_triangle;
+mod calculate_bmi;
 
 #[cfg(test)]
 
