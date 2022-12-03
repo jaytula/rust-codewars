@@ -13,6 +13,7 @@ mod squaring_an_argument;
 mod will_you_make_it;
 mod parse_nice_int_from_char;
 mod htmlspecialchars;
+mod difference_of_volumes_of_cuboids;
 
 #[cfg(test)]
 
