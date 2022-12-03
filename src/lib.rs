@@ -33,6 +33,7 @@ mod are_you_playing_banjo;
 mod abbreviate_two_word_name;
 mod count_the_monkeys;
 mod gravity_flip;
+mod beginner_series_2_clock;
 
 #[cfg(test)]
 
