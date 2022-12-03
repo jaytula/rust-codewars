@@ -35,6 +35,7 @@ mod count_the_monkeys;
 mod gravity_flip;
 mod beginner_series_2_clock;
 mod coefficients_quadratic_equation;
+mod basic_mathematical_operations;
 
 #[cfg(test)]
 
