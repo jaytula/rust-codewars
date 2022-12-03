@@ -1,11 +1,7 @@
 // https://www.codewars.com/kata/563e320cee5dddcf77000158/solutions/rust
 
 fn get_average(marks: &[i32]) -> i32 {
-    let mut sum = 0;
-    for i in marks.iter() {
-        sum += i;
-    }
-    sum / (marks.len() as i32)
+    marks.iter().sum::<i32>() / marks.len() as i32
 }
 
 #[cfg(test)]
