@@ -24,6 +24,7 @@ mod keep_hydrated;
 mod function_1_hello_word;
 mod opposites_attract;
 mod simple_multiplication;
+mod reversed_strings;
 
 #[cfg(test)]
 
