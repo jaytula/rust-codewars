@@ -30,6 +30,7 @@ mod remove_first_and_last_char;
 mod get_mean_of_array;
 mod welcome;
 mod are_you_playing_banjo;
+mod abbreviate_two_word_name;
 
 #[cfg(test)]
 
