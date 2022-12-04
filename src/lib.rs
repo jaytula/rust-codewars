@@ -48,6 +48,7 @@ mod sum_of_differences_in_array;
 mod calculate_average;
 mod will_there_be_enough_space;
 mod volume_of_cuboid;
+mod holiday_viii_duty_free;
 
 #[cfg(test)]
 
