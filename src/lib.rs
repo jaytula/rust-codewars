@@ -47,6 +47,7 @@ mod century_from_year;
 mod sum_of_differences_in_array;
 mod calculate_average;
 mod will_there_be_enough_space;
+mod volume_of_cuboid;
 
 #[cfg(test)]
 
