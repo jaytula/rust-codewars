@@ -49,6 +49,7 @@ mod calculate_average;
 mod will_there_be_enough_space;
 mod volume_of_cuboid;
 mod holiday_viii_duty_free;
+mod thinkful_logic_drills_traffic_light;
 
 #[cfg(test)]
 
