@@ -44,6 +44,7 @@ mod the_if_function;
 mod object_oriented_piracy;
 mod makeuppercase;
 mod century_from_year;
+mod sum_of_differences_in_array;
 
 #[cfg(test)]
 
