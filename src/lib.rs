@@ -52,6 +52,7 @@ mod holiday_viii_duty_free;
 mod thinkful_logic_drills_traffic_light;
 mod beginner_lost_without_map;
 mod beginner_series_4_cockroach;
+mod total_amount_of_points;
 
 #[cfg(test)]
 
