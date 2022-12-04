@@ -45,6 +45,7 @@ mod object_oriented_piracy;
 mod makeuppercase;
 mod century_from_year;
 mod sum_of_differences_in_array;
+mod calculate_average;
 
 #[cfg(test)]
 
