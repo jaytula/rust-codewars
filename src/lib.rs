@@ -43,6 +43,7 @@ mod count_odd_numbers_below_n;
 mod the_if_function;
 mod object_oriented_piracy;
 mod makeuppercase;
+mod century_from_year;
 
 #[cfg(test)]
 
