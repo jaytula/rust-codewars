@@ -53,6 +53,7 @@ mod thinkful_logic_drills_traffic_light;
 mod beginner_lost_without_map;
 mod beginner_series_4_cockroach;
 mod total_amount_of_points;
+mod filling_an_array_part_1;
 
 #[cfg(test)]
 
