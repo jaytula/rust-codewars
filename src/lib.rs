@@ -62,6 +62,7 @@ mod find_nearest_square_number;
 mod multiplication_table_for_number;
 mod how_much_i_love_you;
 mod expression_matters;
+mod grasshopper_terminal_game_move;
 
 #[cfg(test)]
 
