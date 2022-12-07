@@ -57,6 +57,7 @@ mod filling_an_array_part_1;
 mod grasshopper_summation;
 mod counting_sheep;
 mod holiday_vi_shark_pontoon;
+mod feast_of_many_beasts;
 
 #[cfg(test)]
 
