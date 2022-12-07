@@ -56,6 +56,7 @@ mod total_amount_of_points;
 mod filling_an_array_part_1;
 mod grasshopper_summation;
 mod counting_sheep;
+mod holiday_vi_shark_pontoon;
 
 #[cfg(test)]
 
