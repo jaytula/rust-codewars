@@ -63,6 +63,7 @@ mod multiplication_table_for_number;
 mod how_much_i_love_you;
 mod expression_matters;
 mod grasshopper_terminal_game_move;
+mod removing_elements;
 
 #[cfg(test)]
 
