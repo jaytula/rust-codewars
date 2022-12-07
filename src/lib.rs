@@ -60,6 +60,7 @@ mod holiday_vi_shark_pontoon;
 mod feast_of_many_beasts;
 mod find_nearest_square_number;
 mod multiplication_table_for_number;
+mod how_much_i_love_you;
 
 #[cfg(test)]
 
