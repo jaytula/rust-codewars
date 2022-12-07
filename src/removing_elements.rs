@@ -11,6 +11,14 @@ fn remove_every_other(arr: &[u8]) -> Vec<u8> {
     vec
 }
 
+// Alternate strategies
+// 1. iter, step_by, copied, collect
+// 2. iter, step_by, cloned, collect
+// 3. iter, enumerate, filter, map, collect
+// 4. for loop with iter.enumerate and destructure tuple
+// 5. declare vec using macro as vec![]
+// 6. into_iter instead, appears to work the same
+
 // Add your tests here.
 // See https://doc.rust-lang.org/stable/rust-by-example/testing/unit_testing.html
 
