@@ -71,6 +71,7 @@ mod quarter_of_the_year;
 mod remove_string_spaces;
 mod find_first_non_consecutive_number;
 mod returning_strings;
+mod nth_power;
 
 #[cfg(test)]
 
