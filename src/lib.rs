@@ -64,6 +64,7 @@ mod how_much_i_love_you;
 mod expression_matters;
 mod grasshopper_terminal_game_move;
 mod removing_elements;
+mod dna_to_rna_conversion;
 
 #[cfg(test)]
 
