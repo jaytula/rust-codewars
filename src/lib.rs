@@ -67,6 +67,7 @@ mod removing_elements;
 mod dna_to_rna_conversion;
 mod wilson_primes;
 mod convert_boolean_values_to_string;
+mod quarter_of_the_year;
 
 #[cfg(test)]
 
