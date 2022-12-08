@@ -66,6 +66,7 @@ mod grasshopper_terminal_game_move;
 mod removing_elements;
 mod dna_to_rna_conversion;
 mod wilson_primes;
+mod convert_boolean_values_to_string;
 
 #[cfg(test)]
 
