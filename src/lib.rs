@@ -69,6 +69,7 @@ mod wilson_primes;
 mod convert_boolean_values_to_string;
 mod quarter_of_the_year;
 mod remove_string_spaces;
+mod find_first_non_consecutive_number;
 
 #[cfg(test)]
 
