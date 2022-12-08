@@ -72,6 +72,7 @@ mod remove_string_spaces;
 mod find_first_non_consecutive_number;
 mod returning_strings;
 mod nth_power;
+mod is_n_divisible_by_x_and_y;
 
 #[cfg(test)]
 
