@@ -65,6 +65,7 @@ mod expression_matters;
 mod grasshopper_terminal_game_move;
 mod removing_elements;
 mod dna_to_rna_conversion;
+mod wilson_primes;
 
 #[cfg(test)]
 
