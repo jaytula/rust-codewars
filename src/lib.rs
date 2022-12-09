@@ -84,6 +84,7 @@ mod grasshopper_personalized_message;
 mod reversed_words;
 mod do_i_get_a_bonus;
 mod get_planet_name_by_id;
+mod grasshopper_check_for_factor;
 
 #[cfg(test)]
 
