@@ -80,6 +80,7 @@ mod square_or_square_root;
 mod grasshopper_grade_book;
 mod beginner_series_1_school_paperwork;
 mod array_plus_array;
+mod grasshopper_personalized_message;
 
 #[cfg(test)]
 
