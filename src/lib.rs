@@ -88,6 +88,7 @@ mod grasshopper_check_for_factor;
 mod opposite_number;
 mod count_by_x;
 mod convert_string_to_array;
+mod bin_to_decimal;
 
 #[cfg(test)]
 
