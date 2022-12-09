@@ -86,6 +86,7 @@ mod do_i_get_a_bonus;
 mod get_planet_name_by_id;
 mod grasshopper_check_for_factor;
 mod opposite_number;
+mod count_by_x;
 
 #[cfg(test)]
 
