@@ -77,6 +77,7 @@ mod just_count_sheep;
 mod grasshopper_if_else_syntax_debug;
 mod grasshopper_messi_goals_function;
 mod square_or_square_root;
+mod grasshopper_grade_book;
 
 #[cfg(test)]
 
