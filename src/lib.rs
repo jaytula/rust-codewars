@@ -78,6 +78,7 @@ mod grasshopper_if_else_syntax_debug;
 mod grasshopper_messi_goals_function;
 mod square_or_square_root;
 mod grasshopper_grade_book;
+mod beginner_series_1_school_paperwork;
 
 #[cfg(test)]
 
