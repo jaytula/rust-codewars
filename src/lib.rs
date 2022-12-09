@@ -82,6 +82,7 @@ mod beginner_series_1_school_paperwork;
 mod array_plus_array;
 mod grasshopper_personalized_message;
 mod reversed_words;
+mod do_i_get_a_bonus;
 
 #[cfg(test)]
 
