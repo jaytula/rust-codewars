@@ -95,6 +95,7 @@ mod sort_and_star;
 mod sum_of_postives;
 mod contamination_1_string;
 mod name_shuffler;
+mod reversed_sequence;
 
 #[cfg(test)]
 
