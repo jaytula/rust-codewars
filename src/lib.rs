@@ -93,6 +93,7 @@ mod what_is_between;
 mod convert_number_to_reversed_array_of_digits;
 mod sort_and_star;
 mod sum_of_postives;
+mod contamination_1_string;
 
 #[cfg(test)]
 
