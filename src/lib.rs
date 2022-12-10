@@ -97,6 +97,7 @@ mod contamination_1_string;
 mod name_shuffler;
 mod reversed_sequence;
 mod convert_number_to_string;
+mod sum_mixed_array;
 
 #[cfg(test)]
 
