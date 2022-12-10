@@ -105,6 +105,7 @@ mod get_nth_even_number;
 mod get_character_from_ascii_value;
 mod is_this_my_tail;
 mod merge_two_sorted_arrays_into_one;
+mod square_n_sum;
 
 #[cfg(test)]
 
