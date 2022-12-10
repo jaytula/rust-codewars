@@ -101,6 +101,7 @@ mod sum_mixed_array;
 mod hex_to_decimal;
 mod convert_boolean_to_string;
 mod take_the_derivative;
+mod get_nth_even_number;
 
 #[cfg(test)]
 
