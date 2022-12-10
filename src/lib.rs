@@ -103,6 +103,7 @@ mod convert_boolean_to_string;
 mod take_the_derivative;
 mod get_nth_even_number;
 mod get_character_from_ascii_value;
+mod is_this_my_tail;
 
 #[cfg(test)]
 
