@@ -96,6 +96,7 @@ mod sum_of_postives;
 mod contamination_1_string;
 mod name_shuffler;
 mod reversed_sequence;
+mod convert_number_to_string;
 
 #[cfg(test)]
 
