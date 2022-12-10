@@ -98,6 +98,7 @@ mod name_shuffler;
 mod reversed_sequence;
 mod convert_number_to_string;
 mod sum_mixed_array;
+mod hex_to_decimal;
 
 #[cfg(test)]
 
