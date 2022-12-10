@@ -92,6 +92,7 @@ mod bin_to_decimal;
 mod what_is_between;
 mod convert_number_to_reversed_array_of_digits;
 mod sort_and_star;
+mod sum_of_postives;
 
 #[cfg(test)]
 
