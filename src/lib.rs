@@ -89,6 +89,7 @@ mod opposite_number;
 mod count_by_x;
 mod convert_string_to_array;
 mod bin_to_decimal;
+mod what_is_between;
 
 #[cfg(test)]
 
