@@ -115,6 +115,7 @@ mod is_he_gonna_survive;
 mod rock_paper_scissors;
 mod l1_set_alarm;
 mod compare_within_margin;
+mod wolf_in_sheeps_clothing;
 
 #[cfg(test)]
 
