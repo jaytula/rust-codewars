@@ -110,6 +110,7 @@ mod thinkful_number_drills_blue_and_red_marbles;
 mod fake_binary;
 mod find_smallest_integer_in_array;
 mod jennys_secret_message;
+mod fixme_replace_all_dots;
 
 #[cfg(test)]
 
