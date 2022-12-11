@@ -108,6 +108,7 @@ mod merge_two_sorted_arrays_into_one;
 mod square_n_sum;
 mod thinkful_number_drills_blue_and_red_marbles;
 mod fake_binary;
+mod find_smallest_integer_in_array;
 
 #[cfg(test)]
 
