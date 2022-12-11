@@ -112,6 +112,7 @@ mod find_smallest_integer_in_array;
 mod jennys_secret_message;
 mod fixme_replace_all_dots;
 mod is_he_gonna_survive;
+mod rock_paper_scissors;
 
 #[cfg(test)]
 
