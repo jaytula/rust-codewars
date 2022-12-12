@@ -117,6 +117,7 @@ mod l1_set_alarm;
 mod compare_within_margin;
 mod wolf_in_sheeps_clothing;
 mod enumerable_magic_20_cascading_subsets;
+mod plural;
 
 #[cfg(test)]
 
