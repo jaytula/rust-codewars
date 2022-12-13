@@ -118,6 +118,7 @@ mod compare_within_margin;
 mod wolf_in_sheeps_clothing;
 mod enumerable_magic_20_cascading_subsets;
 mod plural;
+mod usd_cny;
 
 #[cfg(test)]
 
