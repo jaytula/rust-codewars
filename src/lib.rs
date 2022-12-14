@@ -120,6 +120,7 @@ mod enumerable_magic_20_cascading_subsets;
 mod plural;
 mod usd_cny;
 mod hello_name_or_world;
+mod pirates_are_the_cannons_ready;
 
 #[cfg(test)]
 
