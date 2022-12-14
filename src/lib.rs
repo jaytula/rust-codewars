@@ -119,6 +119,7 @@ mod wolf_in_sheeps_clothing;
 mod enumerable_magic_20_cascading_subsets;
 mod plural;
 mod usd_cny;
+mod hello_name_or_world;
 
 #[cfg(test)]
 
