@@ -124,6 +124,7 @@ mod pirates_are_the_cannons_ready;
 mod generating_range_of_integers;
 mod l1_bartender_drinks;
 mod smallest_unused_id;
+mod dollars_and_cents;
 
 #[cfg(test)]
 
