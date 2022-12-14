@@ -122,6 +122,7 @@ mod usd_cny;
 mod hello_name_or_world;
 mod pirates_are_the_cannons_ready;
 mod generating_range_of_integers;
+mod l1_bartender_drinks;
 
 #[cfg(test)]
 
