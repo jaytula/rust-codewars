@@ -126,6 +126,7 @@ mod l1_bartender_drinks;
 mod smallest_unused_id;
 mod dollars_and_cents;
 mod eightkyu_interpreters_hq9plus;
+mod grasshopper_terminal_game_combat_function;
 
 #[cfg(test)]
 
