@@ -9,21 +9,18 @@ fn time_correct(time_str: &str) -> Option<String> {
         return None;
     }
 
-    for cap in re.captures_iter(time_str) {
-        let seconds = &cap[3].parse::<i32>().unwrap();
-        let minutes = &cap[2].parse::<i32>().unwrap();
-        let hours = &cap[1].parse::<i32>().unwrap();
+    let cap = re.captures(time_str).unwrap();
+    let seconds = &cap[3].parse::<i32>().unwrap();
+    let minutes = &cap[2].parse::<i32>().unwrap();
+    let hours = &cap[1].parse::<i32>().unwrap();
 
-        let res = format!(
-            "{:02}:{:02}:{:02}",
-            (hours + (minutes + (seconds / 60)) / 60) % 24,
-            (minutes + (seconds / 60)) % 60,
-            seconds % 60
-        );
-        return Some(res);
-    }
-
-    None
+    let res = format!(
+        "{:02}:{:02}:{:02}",
+        (hours + (minutes + (seconds / 60)) / 60) % 24,
+        (minutes + (seconds / 60)) % 60,
+        seconds % 60
+    );
+    return Some(res);
 }
 
 #[cfg(test)]
