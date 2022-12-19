@@ -131,6 +131,7 @@ mod whats_up_next;
 mod cat_and_shelves;
 mod correct_the_time_string;
 mod complementary_dna;
+mod previous_multiple_of_three;
 
 #[cfg(test)]
 
