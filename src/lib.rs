@@ -132,6 +132,7 @@ mod cat_and_shelves;
 mod correct_the_time_string;
 mod complementary_dna;
 mod previous_multiple_of_three;
+mod powers_of_i;
 
 #[cfg(test)]
 
