@@ -134,6 +134,7 @@ mod complementary_dna;
 mod previous_multiple_of_three;
 mod powers_of_i;
 mod looking_for_a_benefactor;
+mod shortest_word;
 
 #[cfg(test)]
 
