@@ -136,6 +136,7 @@ mod powers_of_i;
 mod looking_for_a_benefactor;
 mod shortest_word;
 mod especially_joyful_numbers;
+mod disemvowel_trolls;
 
 #[cfg(test)]
 
