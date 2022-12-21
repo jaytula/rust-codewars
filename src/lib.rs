@@ -137,6 +137,7 @@ mod looking_for_a_benefactor;
 mod shortest_word;
 mod especially_joyful_numbers;
 mod disemvowel_trolls;
+mod another_card_game;
 
 #[cfg(test)]
 
