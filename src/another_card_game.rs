@@ -35,11 +35,17 @@ pub fn the_game(frank: &[u8; 4], sam: &[u8; 4], tom: &[u8; 4]) -> bool {
 
     if frank[0] == 0 {
         frank_left.remove(0);
+        if sam_left[3] > tom_left[3] {
+            sam_wins = 1;
+        } else {
+            tom_wins = 1;
+        }
         sam_left.remove(3);
         tom_left.remove(3);
     }
 
     println!("Round 1: {:?} {:?} {:?}", frank_left, sam_left, tom_left);
+    println!("Round 1 Win: {} {} {}", frank_wins, sam_wins, tom_wins);
     res
 }
 
