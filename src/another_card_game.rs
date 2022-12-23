@@ -11,6 +11,8 @@ pub fn the_game(frank: &[u8; 4], sam: &[u8; 4], tom: &[u8; 4]) -> bool {
     let mut sam_left = sam.to_vec();
     let mut tom_left = tom.to_vec();
 
+    println!("Round 0: {:?} {:?} {:?}", frank_left, sam_left, tom_left);
+
     if sam[0] == 0 {
         sam_left.remove(0);
         let tom_round1 = tom_left[1];
@@ -46,6 +48,10 @@ pub fn the_game(frank: &[u8; 4], sam: &[u8; 4], tom: &[u8; 4]) -> bool {
 
     println!("Round 1: {:?} {:?} {:?}", frank_left, sam_left, tom_left);
     println!("Round 1 Win: {} {} {}", frank_wins, sam_wins, tom_wins);
+
+    if frank[2] < sam[1] || frank[2] < tom[1] { return false; }
+    if frank[1] < sam[0] || frank[1] < tom[0] { return false; }
+
     res
 }
 
@@ -56,6 +62,11 @@ mod tests {
     #[test]
     fn weird_day() {
         assert_eq!(the_game(&[0, 6, 7, 8], &[1, 2, 3, 11], &[4, 5, 9, 10]), true);
+    }
+
+    #[test]
+    fn weird_day_2() {
+        assert_eq!(the_game(&[4, 5, 6, 9], &[1, 2, 3, 7], &[0, 8, 10, 11]), true)
     }
 
     #[test]
