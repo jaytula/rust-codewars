@@ -26,7 +26,7 @@ pub fn the_game(frank: &[u8; 4], sam: &[u8; 4], tom: &[u8; 4]) -> bool {
 
     if tom[0] == 0 {
         tom_left.remove(0);
-        let sam_round1 = tom_left[1];
+        let sam_round1 = sam_left[1];
         let frank_round1_index = frank_left.iter().find_position(|&el| *el > sam_round1);
         if frank_round1_index == None { return false; }
         let (to_remove, _) = frank_round1_index.unwrap();
@@ -49,6 +49,10 @@ pub fn the_game(frank: &[u8; 4], sam: &[u8; 4], tom: &[u8; 4]) -> bool {
     println!("Round 1: {:?} {:?} {:?}", frank_left, sam_left, tom_left);
     println!("Round 1 Win: {} {} {}", frank_wins, sam_wins, tom_wins);
 
+    if frank_wins == 1 {
+        if frank[2] > sam[0] || frank[2] > tom[0] { return true; }
+
+    }
     if frank[2] < sam[1] || frank[2] < tom[1] { return false; }
     if frank[1] < sam[0] || frank[1] < tom[0] { return false; }
 
