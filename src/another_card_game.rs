@@ -48,7 +48,8 @@ pub fn the_game(frank: &[u8; 4], sam: &[u8; 4], tom: &[u8; 4]) -> bool {
     println!("Round 1 Win: {} {} {}", frank_wins, sam_wins, tom_wins);
 
     if frank_wins == 1 {
-        if frank_left[2] > sam_left[0] || frank_left[2] > tom_left[0] { return true; }
+        if frank_left[2] > sam_left[0] && frank_left[2] > tom_left[0] { return true; }
+        return false;
 
     }
     if frank_left[2] < sam_left[1] || frank_left[2] < tom_left[1] { return false; }
