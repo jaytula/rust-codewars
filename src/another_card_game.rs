@@ -1,8 +1,6 @@
 use itertools::Itertools;
 
 pub fn the_game(frank: &[u8; 4], sam: &[u8; 4], tom: &[u8; 4]) -> bool {
-    let res = true;
-
     let mut frank_wins = 0;
     let mut sam_wins: i32 = 0;
     let mut tom_wins = 0;
@@ -50,13 +48,13 @@ pub fn the_game(frank: &[u8; 4], sam: &[u8; 4], tom: &[u8; 4]) -> bool {
     println!("Round 1 Win: {} {} {}", frank_wins, sam_wins, tom_wins);
 
     if frank_wins == 1 {
-        if frank[2] > sam[0] || frank[2] > tom[0] { return true; }
+        if frank_left[2] > sam_left[0] || frank_left[2] > tom_left[0] { return true; }
 
     }
-    if frank[2] < sam[1] || frank[2] < tom[1] { return false; }
-    if frank[1] < sam[0] || frank[1] < tom[0] { return false; }
+    if frank_left[2] < sam_left[1] || frank_left[2] < tom_left[1] { return false; }
+    if frank_left[1] < sam_left[0] || frank_left[1] < tom_left[0] { return false; }
 
-    res
+    true
 }
 
 #[cfg(test)]
@@ -71,6 +69,11 @@ mod tests {
     #[test]
     fn weird_day_2() {
         assert_eq!(the_game(&[4, 5, 6, 9], &[1, 2, 3, 7], &[0, 8, 10, 11]), true)
+    }
+
+    #[test]
+    fn weird_day_3() {
+        assert_eq!(the_game(&[0, 1, 8, 9], &[2, 4, 5, 11], &[3, 6, 7, 10]), true)
     }
 
     #[test]
