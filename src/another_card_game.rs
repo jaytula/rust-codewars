@@ -54,6 +54,11 @@ mod tests {
     use super::*;
 
     #[test]
+    fn weird_day() {
+        assert_eq!(the_game(&[0, 6, 7, 8], &[1, 2, 3, 11], &[4, 5, 9, 10]), true);
+    }
+
+    #[test]
     fn good_day() {
         assert_eq!(the_game(&[2, 5, 8, 11], &[1, 4, 7, 10], &[0, 3, 6, 9]), true);
     }
