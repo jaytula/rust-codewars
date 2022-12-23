@@ -77,6 +77,11 @@ mod tests {
     }
 
     #[test]
+    fn weird_day_4() {
+        assert_eq!(the_game(&[1, 4, 6, 7], &[2, 3, 5, 10], &[0, 8, 9, 11]), false)
+    }
+
+    #[test]
     fn good_day() {
         assert_eq!(the_game(&[2, 5, 8, 11], &[1, 4, 7, 10], &[0, 3, 6, 9]), true);
     }
