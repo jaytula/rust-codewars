@@ -140,6 +140,7 @@ mod disemvowel_trolls;
 mod another_card_game;
 mod herons_formula;
 mod fun_with_binary_numbers;
+mod remove_the_minimum;
 
 #[cfg(test)]
 
