@@ -139,6 +139,7 @@ mod especially_joyful_numbers;
 mod disemvowel_trolls;
 mod another_card_game;
 mod herons_formula;
+mod fun_with_binary_numbers;
 
 #[cfg(test)]
 
