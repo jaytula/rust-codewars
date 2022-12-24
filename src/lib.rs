@@ -141,6 +141,7 @@ mod another_card_game;
 mod herons_formula;
 mod fun_with_binary_numbers;
 mod remove_the_minimum;
+mod beginner_series_3_sum_of_numbers;
 
 #[cfg(test)]
 
