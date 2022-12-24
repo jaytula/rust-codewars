@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/633874ed198a4c00286aa39d/solutions/rust
+
 use itertools::Itertools;
 
 pub fn the_game(frank: &[u8; 4], sam: &[u8; 4], tom: &[u8; 4]) -> bool {
@@ -13,23 +15,23 @@ pub fn the_game(frank: &[u8; 4], sam: &[u8; 4], tom: &[u8; 4]) -> bool {
 
     if sam[0] == 0 {
         sam_left.remove(0);
-        let tom_round1 = tom_left[1];
+        let tom_round1 = tom_left[0];
         let frank_round1_index = frank_left.iter().find_position(|&el| *el > tom_round1);
         if frank_round1_index == None { return false; }
         let (to_remove, _) = frank_round1_index.unwrap();
         frank_left.remove(to_remove);
-        tom_left.remove(1);
+        tom_left.remove(0);
         frank_wins += 1;       
     }
 
     if tom[0] == 0 {
         tom_left.remove(0);
-        let sam_round1 = sam_left[1];
+        let sam_round1 = sam_left[0];
         let frank_round1_index = frank_left.iter().find_position(|&el| *el > sam_round1);
         if frank_round1_index == None { return false; }
         let (to_remove, _) = frank_round1_index.unwrap();
         frank_left.remove(to_remove);
-        sam_left.remove(1);
+        sam_left.remove(0);
         frank_wins += 1;       
     }
 
