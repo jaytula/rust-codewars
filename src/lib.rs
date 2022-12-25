@@ -150,6 +150,7 @@ mod youre_a_square;
 mod leap_years;
 mod sort_numbers;
 mod sum_of_angles;
+mod ordered_count_of_characters;
 
 #[cfg(test)]
 
