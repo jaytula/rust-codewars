@@ -9,10 +9,10 @@ impl HighLow {
     fn new(numbers: &str) -> HighLow {
         let mut s = HighLow { high: 0, low: 0 };
 
-        let numbers = numbers
+        let numbers: Vec<i32> = numbers
             .split_whitespace()
             .map(|seg| seg.parse::<i32>().unwrap())
-            .collect::<Vec<i32>>();
+            .collect();
 
         // println!("{:?}", numbers);
         s.high = *numbers.iter().max().unwrap();
