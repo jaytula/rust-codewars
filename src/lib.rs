@@ -144,6 +144,7 @@ mod remove_the_minimum;
 mod beginner_series_3_sum_of_numbers;
 mod highest_and_lowest;
 mod find_smallest_power_higher_than_value;
+mod square_every_digit;
 
 #[cfg(test)]
 
