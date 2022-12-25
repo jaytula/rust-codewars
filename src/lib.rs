@@ -148,6 +148,7 @@ mod square_every_digit;
 mod vowel_count;
 mod youre_a_square;
 mod leap_years;
+mod sort_numbers;
 
 #[cfg(test)]
 
