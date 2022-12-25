@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/57a6633153ba33189e000074/solutions/rust
+
 use std::collections::HashMap;
 
 fn ordered_count(sip: &str) -> Vec<(char, i32)> {
