@@ -146,6 +146,7 @@ mod highest_and_lowest;
 mod find_smallest_power_higher_than_value;
 mod square_every_digit;
 mod vowel_count;
+mod youre_a_square;
 
 #[cfg(test)]
 
