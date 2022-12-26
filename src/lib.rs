@@ -154,6 +154,7 @@ mod ordered_count_of_characters;
 mod easy_wallpaper;
 mod interlocking_binary_pairs;
 mod spoonerize_me;
+mod categorize_new_member;
 
 #[cfg(test)]
 
