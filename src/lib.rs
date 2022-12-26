@@ -151,6 +151,7 @@ mod leap_years;
 mod sort_numbers;
 mod sum_of_angles;
 mod ordered_count_of_characters;
+mod easy_wallpaper;
 
 #[cfg(test)]
 
