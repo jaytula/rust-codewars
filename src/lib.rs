@@ -156,6 +156,7 @@ mod interlocking_binary_pairs;
 mod spoonerize_me;
 mod categorize_new_member;
 mod olympic_rings;
+mod largest_elements;
 
 #[cfg(test)]
 
