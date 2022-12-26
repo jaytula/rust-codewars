@@ -153,6 +153,7 @@ mod sum_of_angles;
 mod ordered_count_of_characters;
 mod easy_wallpaper;
 mod interlocking_binary_pairs;
+mod spoonerize_me;
 
 #[cfg(test)]
 
