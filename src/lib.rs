@@ -158,6 +158,7 @@ mod categorize_new_member;
 mod olympic_rings;
 mod largest_elements;
 mod triangular_treasure;
+mod growth_of_a_population;
 
 #[cfg(test)]
 
