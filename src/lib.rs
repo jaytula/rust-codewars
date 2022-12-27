@@ -159,6 +159,7 @@ mod olympic_rings;
 mod largest_elements;
 mod triangular_treasure;
 mod growth_of_a_population;
+mod speed_control;
 
 #[cfg(test)]
 
