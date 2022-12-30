@@ -162,6 +162,7 @@ mod growth_of_a_population;
 mod speed_control;
 mod going_to_the_cinema;
 mod frequency_sequence;
+mod string_ends_with;
 
 #[cfg(test)]
 
