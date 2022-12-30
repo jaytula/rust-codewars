@@ -165,6 +165,7 @@ mod frequency_sequence;
 mod string_ends_with;
 mod exes_and_ohs;
 mod incrementer;
+mod nth_smallest_element_array_series_4;
 
 #[cfg(test)]
 
