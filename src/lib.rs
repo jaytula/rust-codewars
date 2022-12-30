@@ -163,6 +163,7 @@ mod speed_control;
 mod going_to_the_cinema;
 mod frequency_sequence;
 mod string_ends_with;
+mod exes_and_ohs;
 
 #[cfg(test)]
 
