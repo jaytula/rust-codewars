@@ -167,6 +167,7 @@ mod exes_and_ohs;
 mod incrementer;
 mod nth_smallest_element_array_series_4;
 mod build_a_square;
+mod descending_order;
 
 #[cfg(test)]
 
