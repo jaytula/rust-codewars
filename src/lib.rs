@@ -170,6 +170,7 @@ mod build_a_square;
 mod descending_order;
 mod circle_cipher;
 mod fibonacci;
+mod vaporcode;
 
 #[cfg(test)]
 
