@@ -171,6 +171,7 @@ mod descending_order;
 mod circle_cipher;
 mod fibonacci;
 mod vaporcode;
+mod all_the_keywords;
 
 #[cfg(test)]
 
