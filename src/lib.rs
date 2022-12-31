@@ -168,6 +168,7 @@ mod incrementer;
 mod nth_smallest_element_array_series_4;
 mod build_a_square;
 mod descending_order;
+mod circle_cipher;
 
 #[cfg(test)]
 
