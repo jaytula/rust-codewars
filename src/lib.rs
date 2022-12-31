@@ -172,6 +172,7 @@ mod circle_cipher;
 mod fibonacci;
 mod vaporcode;
 mod all_the_keywords;
+mod count_the_divisors_of_number;
 
 #[cfg(test)]
 
