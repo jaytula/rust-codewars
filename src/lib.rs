@@ -176,6 +176,7 @@ mod count_the_divisors_of_number;
 mod count_the_digit;
 mod hurry_up_the_walls_are_closing_in;
 mod parts_of_a_list;
+mod all_inclusive;
 
 #[cfg(test)]
 
