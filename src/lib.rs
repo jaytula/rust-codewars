@@ -177,6 +177,7 @@ mod count_the_digit;
 mod hurry_up_the_walls_are_closing_in;
 mod parts_of_a_list;
 mod all_inclusive;
+mod testing_123;
 
 #[cfg(test)]
 
