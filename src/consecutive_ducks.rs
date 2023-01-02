@@ -1,7 +1,7 @@
 // https://www.codewars.com/kata/5dae2599a8f7d90025d2f15f/solutions/rust
 
 fn consecutive_ducks(n: u32) -> bool {
-    for i in 2..=200 {
+    for i in 2..=(n / 2) {
         let b = n / i;
         let start0 = b.checked_sub(i / 2);
         if start0 == None { continue; }
