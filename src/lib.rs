@@ -184,6 +184,7 @@ mod consecutive_ducks;
 mod simple_fun_176_reverse_letter;
 mod collatz_conjecture_length;
 mod scaled_square_strings;
+mod sort_rectangles_and_circles_by_area_ii;
 
 #[cfg(test)]
 
