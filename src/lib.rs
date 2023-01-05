@@ -183,6 +183,7 @@ mod love_vs_friendship;
 mod consecutive_ducks;
 mod simple_fun_176_reverse_letter;
 mod collatz_conjecture_length;
+mod scaled_square_strings;
 
 #[cfg(test)]
 
