@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/56ed20a2c4e5d69155000301/solutions
+
 use itertools::Itertools;
 
 fn scale(s: &str, k: u32, n: u32) -> String {
