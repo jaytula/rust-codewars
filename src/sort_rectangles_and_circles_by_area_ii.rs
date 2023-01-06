@@ -1,7 +1,7 @@
 use std::{cmp::Ordering, f64::consts::PI};
 use either::Either;
 
-type MyEither = Either<(f64, f64), f64>;
+struct MyEither(Either<(f64, f64), f64>);
 
 impl Ord for MyEither {
     fn cmp(&self, other: &Self) -> Ordering {
