@@ -186,6 +186,7 @@ mod collatz_conjecture_length;
 mod scaled_square_strings;
 mod sort_rectangles_and_circles_by_area_ii;
 mod poet_and_pendulum;
+mod deodorant_evaporator;
 
 #[cfg(test)]
 
