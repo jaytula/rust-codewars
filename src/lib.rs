@@ -188,6 +188,7 @@ mod sort_rectangles_and_circles_by_area_ii;
 mod poet_and_pendulum;
 mod deodorant_evaporator;
 mod strong_number_special_numbers_series_2;
+mod multiples_by_permutations_ii;
 
 #[cfg(test)]
 
