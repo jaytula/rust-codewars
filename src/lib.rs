@@ -189,6 +189,7 @@ mod poet_and_pendulum;
 mod deodorant_evaporator;
 mod strong_number_special_numbers_series_2;
 mod multiples_by_permutations_ii;
+mod sum_of_sequence;
 
 #[cfg(test)]
 
