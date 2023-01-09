@@ -192,6 +192,7 @@ mod multiples_by_permutations_ii;
 mod sum_of_sequence;
 mod reverse_words;
 mod reverse_list;
+mod dont_give_me_five;
 
 #[cfg(test)]
 
