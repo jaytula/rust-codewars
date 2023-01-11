@@ -196,6 +196,7 @@ mod dont_give_me_five;
 mod balanced_number_special_number_series_1;
 mod upper_body_strength;
 mod simple_fun_10_range_bit_counting;
+mod is_this_a_triangle;
 
 #[cfg(test)]
 
