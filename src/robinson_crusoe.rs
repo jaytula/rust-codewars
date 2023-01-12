@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/5d95b7644a336600271f52ba/train/rust
+
 use std::f64;
 
 fn crusoe(n: i32, d: f64, ang: i32, distmult: f64, angmult: f64) -> (f64, f64) {
