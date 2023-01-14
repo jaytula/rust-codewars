@@ -201,6 +201,7 @@ mod number_of_people_in_the_bus;
 mod tidy_number_special_number_series_9;
 mod robinson_crusoe;
 mod stanton_measure;
+mod switcheroo;
 
 #[cfg(test)]
 
