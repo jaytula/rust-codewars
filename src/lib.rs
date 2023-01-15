@@ -202,6 +202,7 @@ mod tidy_number_special_number_series_9;
 mod robinson_crusoe;
 mod stanton_measure;
 mod switcheroo;
+mod binary_addition;
 
 #[cfg(test)]
 
