@@ -203,6 +203,7 @@ mod robinson_crusoe;
 mod stanton_measure;
 mod switcheroo;
 mod binary_addition;
+mod product_array_array_series_5;
 
 #[cfg(test)]
 
