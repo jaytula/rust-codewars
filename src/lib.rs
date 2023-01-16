@@ -205,6 +205,7 @@ mod switcheroo;
 mod binary_addition;
 mod product_array_array_series_5;
 mod sum_of_numbers;
+mod coloured_triangles;
 
 #[cfg(test)]
 
