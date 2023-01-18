@@ -207,6 +207,7 @@ mod product_array_array_series_5;
 mod sum_of_numbers;
 mod coloured_triangles;
 mod alphabetical_addition;
+mod maximum_multiple;
 
 #[cfg(test)]
 
