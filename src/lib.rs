@@ -208,6 +208,7 @@ mod sum_of_numbers;
 mod coloured_triangles;
 mod alphabetical_addition;
 mod maximum_multiple;
+mod alphabetically_ordered;
 
 #[cfg(test)]
 
