@@ -210,6 +210,7 @@ mod alphabetical_addition;
 mod maximum_multiple;
 mod alphabetically_ordered;
 mod breaking_chocolate_problem;
+mod sort_by_last_char;
 
 #[cfg(test)]
 
