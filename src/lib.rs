@@ -211,6 +211,7 @@ mod maximum_multiple;
 mod alphabetically_ordered;
 mod breaking_chocolate_problem;
 mod sort_by_last_char;
+mod counting_valleys;
 
 #[cfg(test)]
 
