@@ -214,6 +214,7 @@ mod sort_by_last_char;
 mod counting_valleys;
 mod which_color_is_the_brightest;
 mod over_the_road;
+mod barista_problem;
 
 #[cfg(test)]
 
