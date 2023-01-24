@@ -216,6 +216,7 @@ mod which_color_is_the_brightest;
 mod over_the_road;
 mod barista_problem;
 mod credit_card_mask;
+mod sum_of_cubes;
 
 #[cfg(test)]
 
