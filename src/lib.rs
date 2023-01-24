@@ -217,6 +217,7 @@ mod over_the_road;
 mod barista_problem;
 mod credit_card_mask;
 mod sum_of_cubes;
+mod coprime_validator;
 
 #[cfg(test)]
 
