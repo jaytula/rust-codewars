@@ -220,6 +220,7 @@ mod sum_of_cubes;
 mod coprime_validator;
 mod race_ceremony;
 mod next_prime;
+mod spinning_rings;
 
 #[cfg(test)]
 
