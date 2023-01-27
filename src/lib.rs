@@ -219,6 +219,7 @@ mod credit_card_mask;
 mod sum_of_cubes;
 mod coprime_validator;
 mod race_ceremony;
+mod next_prime;
 
 #[cfg(test)]
 
