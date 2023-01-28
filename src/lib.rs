@@ -221,6 +221,7 @@ mod coprime_validator;
 mod race_ceremony;
 mod next_prime;
 mod spinning_rings;
+mod thinkful_object_drills_quarks;
 
 #[cfg(test)]
 
