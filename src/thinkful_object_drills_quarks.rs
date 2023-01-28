@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/5882b052bdeafec15e0000e6/solutions/rust
+
 struct Quark {
     color: String,
     flavor: String,
