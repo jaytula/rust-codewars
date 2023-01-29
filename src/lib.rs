@@ -222,6 +222,7 @@ mod race_ceremony;
 mod next_prime;
 mod spinning_rings;
 mod thinkful_object_drills_quarks;
+mod bubblesort_once;
 
 #[cfg(test)]
 
