@@ -224,6 +224,7 @@ mod spinning_rings;
 mod thinkful_object_drills_quarks;
 mod bubblesort_once;
 mod binary_score;
+mod maximum_product;
 
 #[cfg(test)]
 
