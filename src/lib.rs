@@ -225,6 +225,7 @@ mod thinkful_object_drills_quarks;
 mod bubblesort_once;
 mod binary_score;
 mod maximum_product;
+mod next_perfect_square;
 
 #[cfg(test)]
 
