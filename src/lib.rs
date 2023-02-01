@@ -226,6 +226,7 @@ mod bubblesort_once;
 mod binary_score;
 mod maximum_product;
 mod next_perfect_square;
+mod building_blocks;
 
 #[cfg(test)]
 
