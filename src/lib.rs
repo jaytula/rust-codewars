@@ -227,6 +227,7 @@ mod binary_score;
 mod maximum_product;
 mod next_perfect_square;
 mod building_blocks;
+mod round_up_to_next_multiple_of_five;
 
 #[cfg(test)]
 
