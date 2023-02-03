@@ -229,6 +229,7 @@ mod next_perfect_square;
 mod building_blocks;
 mod round_up_to_next_multiple_of_five;
 mod ones_and_zeros;
+mod least_large;
 
 #[cfg(test)]
 
