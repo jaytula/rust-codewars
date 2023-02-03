@@ -233,6 +233,7 @@ mod least_large;
 mod two_to_one;
 mod odd_or_even;
 mod area_of_an_arrow;
+mod closest_multiple_of_10;
 
 #[cfg(test)]
 
