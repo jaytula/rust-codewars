@@ -232,6 +232,7 @@ mod ones_and_zeros;
 mod least_large;
 mod two_to_one;
 mod odd_or_even;
+mod area_of_an_arrow;
 
 #[cfg(test)]
 
