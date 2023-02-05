@@ -235,6 +235,7 @@ mod odd_or_even;
 mod area_of_an_arrow;
 mod closest_multiple_of_10;
 mod holiday_iii_fire_on_the_boat;
+mod numbers_to_letters;
 
 #[cfg(test)]
 
