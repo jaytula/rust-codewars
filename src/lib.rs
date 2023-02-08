@@ -238,6 +238,7 @@ mod holiday_iii_fire_on_the_boat;
 mod numbers_to_letters;
 mod consecutive_numbers_needed;
 mod sum_of_minimums;
+mod cryptanalysis_word_patterns;
 
 #[cfg(test)]
 
