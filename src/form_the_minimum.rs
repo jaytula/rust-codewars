@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/5ac6932b2f317b96980000ca/solutions/rust
+
 use itertools::Itertools;
 
 fn min_value(mut digits: Vec<i32>) -> i32 {
