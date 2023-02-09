@@ -240,6 +240,7 @@ mod consecutive_numbers_needed;
 mod sum_of_minimums;
 mod cryptanalysis_word_patterns;
 mod form_the_minimum;
+mod product_of_maximums_of_array_2;
 
 #[cfg(test)]
 
