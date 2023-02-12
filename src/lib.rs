@@ -242,6 +242,7 @@ mod cryptanalysis_word_patterns;
 mod form_the_minimum;
 mod product_of_maximums_of_array_2;
 mod the_fusc_function_part_1;
+mod maximum_triplet_sum_array_series_7;
 
 #[cfg(test)]
 
