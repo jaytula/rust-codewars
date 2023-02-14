@@ -245,6 +245,7 @@ mod the_fusc_function_part_1;
 mod maximum_triplet_sum_array_series_7;
 mod see_you_next_happy_year;
 mod is_it_negative_zero;
+mod printer_errors;
 
 #[cfg(test)]
 
