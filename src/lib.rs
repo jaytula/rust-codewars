@@ -246,6 +246,7 @@ mod maximum_triplet_sum_array_series_7;
 mod see_you_next_happy_year;
 mod is_it_negative_zero;
 mod printer_errors;
+mod number_of_decimal_digits;
 
 #[cfg(test)]
 
