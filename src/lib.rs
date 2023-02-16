@@ -248,6 +248,7 @@ mod is_it_negative_zero;
 mod printer_errors;
 mod number_of_decimal_digits;
 mod spacify;
+mod help_suzuki_rake_garden;
 
 #[cfg(test)]
 
