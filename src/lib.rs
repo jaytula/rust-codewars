@@ -249,6 +249,7 @@ mod printer_errors;
 mod number_of_decimal_digits;
 mod spacify;
 mod help_suzuki_rake_garden;
+mod simple_fun_2_circle_of_numbers;
 
 #[cfg(test)]
 
