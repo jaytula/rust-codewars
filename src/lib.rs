@@ -253,6 +253,7 @@ mod simple_fun_2_circle_of_numbers;
 mod get_the_middle_character;
 mod greatest_common_divisor;
 mod greet_me;
+mod fix_string_case;
 
 #[cfg(test)]
 
